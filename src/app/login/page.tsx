@@ -182,7 +182,7 @@ const LoginPage = () => {
                     <div className="flex-1 flex items-end">
                         <div className="w-full px-10 pb-20 z-10 flex flex-col gap-8">
                             <h2 className='text-white font-bold text-base sm:text-custom-32 leading-5 sm:leading-9 text-left'>
-                                &ldquo;I've been a part of the sports community for years, and I can confidently say that this is a game-changer.&rdquo;
+                                &ldquo;I&apos;ve been a part of the sports community for years, and I can confidently say that this is a game-changer.&rdquo;
                             </h2>
                             <div className='flex justify-between items-center'>
                                 <div className='flex flex-col gap-custom-2'>
