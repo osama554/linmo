@@ -12,7 +12,7 @@ const Home = () => {
     } else {
       router.push('/login');
     }
-  }, [router]);
+  }, [router, isAuthenticated]);
 
   return (
     <div>
