@@ -176,7 +176,7 @@ const LoginPage = () => {
                     </p>
                 </form>
             </div>
-            <div className="flex-1 flex flex-col">
+            <div className="flex-1 hidden md:flex flex-col">
                 <div className="flex flex-1 bg-cover bg-center relative transition-opacity duration-500" style={{ backgroundImage: `url('${images[currentIndex]}')` }}>
                     <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent"></div>
                     <div className="flex-1 flex items-end">
